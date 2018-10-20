@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": "23",
+      "firstName": "André",
+      "age": 33,
+      "companyId": "1"
+    },
+    {
+      "id": "47",
+      "firstName": "Steve Jobs",
+      "age": 10,
+      "companyId": "2"
+    },
+    {
+      "firstName": "Bill Gates",
+      "age": 55,
+      "id": "3E9GzV1"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "iphone"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "search"
+    }
+  ]
+}
